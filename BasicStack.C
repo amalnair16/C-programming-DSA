@@ -57,5 +57,5 @@ int main ()
   pop();
   peek();
   display();
-  retun 0;
+  return 0;
 }
